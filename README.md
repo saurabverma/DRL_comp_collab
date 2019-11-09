@@ -1,9 +1,5 @@
 # DRLND Competetion and Collaboration Project
 
-NOTE: Readers are requested to please excuse the `90`MB of the `Report` file, which takes about `30`s to load. The big size of the file is because I was trying to examine the state values by printing directly (Section 7), meanwhile I realized the agent just started learning very well so I didn't stop the learning. Hence, the state values printed out takes a lot of file size.
-
-To examine the results in a faster manner, reader may refer to `output.log`, `output.pdf` or `rewards.png` files.
-
 ## Project Description
 
 ### Environment
